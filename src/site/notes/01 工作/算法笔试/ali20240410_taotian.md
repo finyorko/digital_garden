@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01//ali20240410-taotian/","title":"[[ali20240410_taotian]]","tags":["笔试","算法"]}
+{"type":"笔试","title":"[[ali20240410_taotian]]","author":"fun","tags":["笔试","算法"],"date":"2024-04-10","comments":true,"publish":true,"dg-publish":true,"permalink":"/01 工作/算法笔试/ali20240410_taotian/","dgPassFrontmatter":true,"created":"2024-04-22T22:25:25.266+08:00","updated":"2024-04-22T22:39:06.794+08:00"}
 ---
 
 
