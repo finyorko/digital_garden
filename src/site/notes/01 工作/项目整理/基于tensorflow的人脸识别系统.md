@@ -1,5 +1,5 @@
 ---
-{"title":"基于tensorflow的人脸识别系统","comments":true,"tags":["人脸识别","python","个人项目"],"categories":"人脸识别","description":"该项目为基于TensorFlow深度学习的人脸识别系统。采用大学班级86*1000的数据集，环境基于ubuntu16.04+Anaconda4.2.0+python3.5+opencv2搭建","date":"2018-12-30 13:14:22","updated":"2024-04-28T23:10:58.603+08:00","type":"个人项目","author":"fun","publish":true,"dg-publish":true,"date created":"2024-04-28 10:27:09","permalink":"/01 工作/项目整理/基于tensorflow的人脸识别系统/","dgPassFrontmatter":true,"created":"2024-04-28T22:27:09.298+08:00"}
+{"title":"基于tensorflow的人脸识别系统","comments":true,"tags":["人脸识别","python","个人项目"],"categories":"人脸识别","description":"该项目为基于TensorFlow深度学习的人脸识别系统。采用大学班级86*1000的数据集，环境基于ubuntu16.04+Anaconda4.2.0+python3.5+opencv2搭建","date":"2018-12-30","updated":"2024-05-07T12:44:59.574+08:00","type":"个人项目","author":"fun","publish":true,"dg-publish":true,"date created":"2024-04-28 10:27:09","permalink":"/01 工作/项目整理/基于tensorflow的人脸识别系统/","dgPassFrontmatter":true,"created":"2024-04-28T22:27:09.298+08:00"}
 ---
 
 
