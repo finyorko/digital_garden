@@ -1,5 +1,5 @@
 ---
-{"title":"[[linux学习过程]]","mathjax":true,"aliases":null,"author":"fun","tags":["linux"],"categories":"linux","description":"初步学习linux","id":"learnlinux","date":"2019-12-10 17:39:31","updated":"2024-04-28T22:33:21.436+08:00","comments":true,"publish":true,"dg-publish":true,"permalink":"/01 学习笔记/技术学习/linux学习过程/","dgPassFrontmatter":true,"created":"2024-04-28T22:11:08.255+08:00"}
+{"title":"[[linux学习过程]]","mathjax":true,"aliases":null,"author":"fun","tags":["linux"],"categories":"linux","description":"初步学习linux","id":"learnlinux","date":"2019-12-10T17:39:32","updated":"2024-05-07T12:35:53.657+08:00","comments":true,"publish":true,"dg-publish":true,"permalink":"/01 学习笔记/技术学习/linux学习过程/","dgPassFrontmatter":true,"created":"2024-04-28T22:11:08.255+08:00"}
 ---
 
 
